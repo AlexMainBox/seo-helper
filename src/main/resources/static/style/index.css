@@ -1,5 +1,4 @@
 
-
 body{
 padding: 0;
 margin: 0;
@@ -158,7 +157,7 @@ font-size: 30px;
 }
 
 .container-header{
-background: url("../img/345.jpg");
+background: url("../img/bar_img.jpg");
 width: auto;
 height: 600px;
 background-repeat: no-repeat;
